@@ -1,6 +1,6 @@
-# Hi, I'm AbsurdCoder 👋
+# Hi, I'm Chirag 👋
 
-**Full Stack Product Designer & Machine Learning Explorer**
+**Full Stack Machine Learning Engineer**
 
 Welcome to my GitHub! I blend design thinking with full stack development and modern AI to build products that are beautiful, functional, and powerful.
 
