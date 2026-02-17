@@ -1,4 +1,4 @@
-# Hi, I'm Chirag 👋
+# Hi, I'm Chiraag 👋
 
 **Full Stack Machine Learning Engineer**
 
